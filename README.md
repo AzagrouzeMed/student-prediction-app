@@ -18,11 +18,13 @@ This project is a Machine Learning web application built with Streamlit.
 ```bash
 streamlit run app.py
 
+## 🖼️ Application Preview
 
----
+### ✅ Réussite
+<img src="admin.png" width="600">
 
-# App Preview
-
+### ❌ Échec
+<img src="redoublement.png" width="600">
 
 
 
