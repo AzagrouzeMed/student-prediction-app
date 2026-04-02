@@ -2,31 +2,33 @@
 
 This project is a Machine Learning web application built with Streamlit.
 
-##  Features
+It predicts whether a student will succeed or fail based on:
+- Age
+- Study hours
+- Exam score (note)
+
+---
+
+## 🚀 Features
+
 - Predict student success (pass/fail)
 - Simple and interactive interface
 - Real-time prediction
+- Machine Learning model (Logistic Regression)
 
-##  Technologies
+---
+
+## 🧠 Technologies
+
 - Python
 - Scikit-learn
 - Streamlit
 - Pandas
 
+---
+
 ## ▶️ Run the app
 
 ```bash
 streamlit run app.py
-
-## 🖼️ Application Preview
-
-### ✅ Réussite
-<img src="admin.png" width="600">
-
-### ❌ Échec
-<img src="redoublement.png" width="600">
-
-
-
-
 
